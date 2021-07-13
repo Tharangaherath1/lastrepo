@@ -12,7 +12,7 @@ dist/
 nbdist/
 .nb-gradle/
 project.xml
-build.impl.xml
+build-impl.xml
 genfiles.properties
 project.properties
 
